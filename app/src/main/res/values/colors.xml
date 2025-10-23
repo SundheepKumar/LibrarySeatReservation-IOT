@@ -1,0 +1,10 @@
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryVariant">#3700B3</color>
+    <color name="colorOnPrimary">#FFFFFF</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="colorBackground">#FFFFFF</color>
+    <color name="white">#FFFFFF</color>
+    <color name="my_toolbar_color">#6200EA</color> <!-- Example: Purple -->
+
+</resources>

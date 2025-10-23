@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LibrarySeatReservation</string>
+    <string name="first_floor">First Floor</string>
+    <string name="second_floor">Second Floor</string>
+    <string name="third_floor">Third Floor</string>
+    <string name="reserve_seat">Reserve Seat</string>
+</resources>
