@@ -47,7 +47,7 @@ It also supports short 5-minute reservations which automatically expire if not o
 How to Run
 
 1. Clone the repository:
-git clone https://github.com/yourusername/library-seat-monitoring-app.git
+git clone https://github.com/SundheepKumar/LibrarySeatReservation-IOT.git
 2. Open the project in Android Studio.
 3. Add your google-services.json file.
 4. Check your Firebase Realtime Database URL in google-services.json.
